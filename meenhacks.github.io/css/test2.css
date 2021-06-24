@@ -1,0 +1,19 @@
+
+.th-yellow-bg {
+    background-color:#fed766
+   }
+.th-blue-bg{
+    background-color: #009FB7;
+}
+.th-gree-bg{
+    background-color: green;
+}
+.center-cropped {
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
